@@ -1,0 +1,3 @@
+# Reasonable-Books-Bot-using-Azure
+
+Deploying a chatbot using Azure is the best way to provide proper and clear idea to buy better book. It can help to provide better suggestions to book lover people. This bot can be implemented on the book store websites so that people can buy books of their own choices. This bot can solve many common queries of the customers and woukd also suggest best of the books available at the store. It can also answer many common queries asked by customers thus it is cost efficent and no waste of human resources. Instead it is available 24x7 so no issues of time and rest like humans. In this project I had used Azure Bot services to implement the chat bot.

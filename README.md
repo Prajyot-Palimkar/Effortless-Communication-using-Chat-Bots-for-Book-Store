@@ -1,4 +1,4 @@
-# Reasonable-Books-Bot-using-Azure
+# Effortless Communication using Artificial Intelligence for improved lifestyle
 
 In this project I’m implementing chatbot for a book store so that customers who come to buy books can get a better suggestion of the books.
 

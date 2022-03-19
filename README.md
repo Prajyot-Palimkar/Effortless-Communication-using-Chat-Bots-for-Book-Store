@@ -21,7 +21,7 @@ Now we are ready to use for bot without any challenges. I hope this bot can be h
 
 ## Implementation and Screenshots
 
-* Project URL: https://qnabotbooks.z29.web.core.windows.net/
+* Project URL: https://qnabotbooks.z13.web.core.windows.net/
 * Project Video: https://youtu.be/Aa5UX0NtNiU
 
 
